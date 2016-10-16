@@ -13,7 +13,7 @@ html, body{
     height: 100%;
 }
 body {
-    font: 12px/1 MicrosoftYaHei, "sans serif", tahoma, verdana, helvetica;
+    font: 16px/1.4 MicrosoftYaHei, "sans serif", tahoma, verdana, helvetica;
     color: #3d3d3d;
 }
 aside,footer,header,menu,nav,section {
